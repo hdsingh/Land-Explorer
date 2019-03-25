@@ -1,0 +1,21 @@
+name: land
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - xarray
+  - zarr
+  - netcdf4
+  - tqdm
+  - gcsfs
+  - s3fs
+  - bokeh/label/dev::bokeh  
+  - pyviz/label/dev::datashader
+  - pyviz/label/dev::holoviews  
+  - pyviz/label/dev::geoviews
+  - pyviz/label/dev::hvplot  
+  - pyviz/label/dev::panel
+  - pyviz/label/dev::param
+  - intake::intake
+  - intake::intake-xarray
