@@ -1,5 +1,7 @@
 # Land Explorer
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hdsingh/Land-Explorer/master)
+
 This dashboard has been created to visualise the land use data available [here](https://s3.amazonaws.com/earth-data/UCMerced_LandUse/catalog.yml).
 
 This notebook shows three different methods of generating same dashboard:
